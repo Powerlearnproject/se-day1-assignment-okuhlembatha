@@ -55,13 +55,26 @@ Strategies: Optimise algorithms and data structure.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-1. Unit testing:
-
+1. Unit testing: This includes checking distinct system units or components separately. It guarantees that every unit operates as planned.
+Importance: It assist in the ealt detection and fixing bugs. 
+2. Integration testing: It ensures that these components work together as intended and that data is passed correctly between them.
+Importance: It assists in finding problems with the integration of various system components is made easier.
+3. System testing: System testing is to check that the systems performance and functionality before it is released to users that it meets its requirements and is good enough for external use.
+Importance: It helps in identifying bugs that may result from a combination of several components. 
+4. Acceptance testing: Customers test a system to decide whether or not it is ready to be accepted from the system developers and deployed in the customer environment. Primarily for custom systems.
+Importance: Acceptance testing assists in obtaining user trust and approval prio to the system going into production. 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering: Prompt engineering is the process of crafting and optimizing input queries (prompts) to achieve desired outputs from AI models. 
+Importance: Enhances response quality, improves AI efficiency, enables task-specific AI performance, and facilitates better human-AI collaboration.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt: "Write an essay about history."
+Improved Prompt: "Write a 1000-word essay on the impact of the Industrial Revolution on the social and economic structures of 19th-century Europe."
+
+
+
