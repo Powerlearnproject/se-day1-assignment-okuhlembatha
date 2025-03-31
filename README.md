@@ -36,9 +36,8 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 3. Project manager: People who must plan, motivate, organize, and control the practitioners who do software work. Their duty includes assigning task to individuals, perform formal risk management, estimating cost and schedule, and track the amount of work done, cost, and the remaining work. 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
-IDEs: They have amaizing functionality that allows the developer to write, test, and debug code efficiently. IDEs integrate several tools into one interface resulting into improved development. Example: Visual Studio Code(VS Code) and Android Studio. 
-VCS: VCS enables developers to work together effectively, maintain code versions to avoid data loss, and monitor changes. Example: Git and Mercurial.
+1. IDEs: They have amaizing functionality that allows the developer to write, test, and debug code efficiently. IDEs integrate several tools into one interface resulting into improved development. Example: Visual Studio Code(VS Code) and Android Studio.
+2. VCS: VCS enables developers to work together effectively, maintain code versions to avoid data loss, and monitor changes. Example: Git and Mercurial.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
