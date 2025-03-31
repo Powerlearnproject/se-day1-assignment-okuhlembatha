@@ -41,8 +41,21 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+1. Staying updated with evolving technologies: The technology field evolves rapidly demanding engineers to constantly learn new programming languages, tools, and frameworks
+Strategies: Enroll in online courses and obtain qualification to self develop and sharpen your skills.
+-Attend webiners and read IT blogs to stay updated and learn new things.
+2. Debugging complex systems and troubleshooting code: Identifying and fixing bugs for complex systems becomes difficult and time-consuming.
+strategies: Break down the complex system into smaller and managable pieces.
+-Use debugging tools such as Android Studio Debugger and Chrome DevTools.
+3. Managing code quality and meeting deadlines: Engineers tend to be under pressure to provide functional software fast while guarding the quality of the code.
+Strategies: Prioritize task and implement them incrementally.
+-Use project management tools Trello to track the work progress of the system being developed.
+4. Resolving problems with system performance: Ineffective activities and slow apps might make user experience undesirable.
+Strategies: Optimise algorithms and data structure.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+1. Unit testing:
 
 
 #Part 2: Introduction to AI and Prompt Engineering
